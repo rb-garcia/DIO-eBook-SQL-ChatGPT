@@ -15,5 +15,5 @@ Faça um texto para ebook, com foco em linguagem de programação SQL, listando 
 > Explique sempre de uma maneira simples
 > Traga cinco exemplos de codigo básico envolvendo no minimo 4 tabelas explicando o codigo
 > Traga cinco exemplos de codigo avançados envolvendo no minimo 5 tabelas explicando o codigo
-> Traga exemplos de código em contextos reais 
+> Traga exemplos de código em contextos reais
 > Sempre deixe um titulo sugestivo por topico
