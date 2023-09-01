@@ -7,6 +7,7 @@ Criando um ebook com ChatGPT
 - O ebook é do nicho de programação e subnicho SQL
 - O titulo deve ser épico e curto com temática simples
 - Liste cinco variações de títulos<br />
+
 Resultado: "SQL Sem Mistérios: Para Iniciantes e Profissionais"
 
 ## Regras
