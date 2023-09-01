@@ -9,11 +9,11 @@ Criando um ebook com ChatGPT
 Resultado: "SQL Sem Mistérios: Para Iniciantes e Profissionais"
 
 ## Regras
-Faça um texto para ebook, com foco em linguagem de programação SQL, listando as principais caracteristicas.
+Faça um texto para ebook, com foco em linguagem de programação SQL, listando as principais caracteristicas.<br />
 {REGRAS}
-> Deixe o texto enxuto e didatico<br />
+> Deixe o texto enxuto e didático<br />
 > Explique sempre de uma maneira simples<br />
-> Traga cinco exemplos de codigo básico envolvendo no minimo 4 tabelas explicando o codigo<br />
-> Traga cinco exemplos de codigo avançados envolvendo no minimo 5 tabelas explicando o codigo<br />
+> Traga cinco exemplos de código básico envolvendo no mínimo 4 tabelas explicando o código<br />
+> Traga cinco exemplos de código avançados envolvendo no mínimo 5 tabelas explicando o código<br />
 > Traga exemplos de código em contextos reais<br />
-> Sempre deixe um titulo sugestivo por topico<br />
+> Sempre deixe um título sugestivo por tópico<br />
