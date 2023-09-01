@@ -11,9 +11,9 @@ Resultado: "SQL Sem Mistérios: Para Iniciantes e Profissionais"
 ## Regras
 Faça um texto para ebook, com foco em linguagem de programação SQL, listando as principais caracteristicas.
 {REGRAS}
-> Deixe o texto enxuto e didatico
-> Explique sempre de uma maneira simples
-> Traga cinco exemplos de codigo básico envolvendo no minimo 4 tabelas explicando o codigo
-> Traga cinco exemplos de codigo avançados envolvendo no minimo 5 tabelas explicando o codigo
-> Traga exemplos de código em contextos reais
-> Sempre deixe um titulo sugestivo por topico
+> Deixe o texto enxuto e didatico<br />
+> Explique sempre de uma maneira simples<br />
+> Traga cinco exemplos de codigo básico envolvendo no minimo 4 tabelas explicando o codigo<br />
+> Traga cinco exemplos de codigo avançados envolvendo no minimo 5 tabelas explicando o codigo<br />
+> Traga exemplos de código em contextos reais<br />
+> Sempre deixe um titulo sugestivo por topico<br />
